@@ -14,8 +14,6 @@ For 3D models I use blender
 
 For texturing, icons and design I use Affinity
 
-"If you wish to make an apple pie from scratch, you must first invent the universe."
-
 
 
 <!--
