@@ -11,6 +11,7 @@ Unity was my main game engine but I decided to switch to Godot so thats what I u
 I also worked with the Monogame framework, Unreal Engine, HTML, Javascript and Python.
 
 For 3D models I use blender
+
 For texturing, icons and design I use Affinity
 
 "If you wish to make an apple pie from scratch, you must first invent the universe."
