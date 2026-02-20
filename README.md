@@ -1,14 +1,14 @@
 ## Axii3
 
-I love Videogames and I love coding
+I love videogames and I love coding
 
-I am working with godot for the most time but I love Sidequests because you can learn so much!
+I am working with godot for the most time but I love sidequests because you can learn so much!
 
 I also published some projects on my itch.io page:
 https://axii3.itch.io/
 
-Unity was my main Game Engine but I decided to switch to Godot so thats what I use now.
-I also worked with the Monogame framework, Unreal Engine, HTML and Javascript and Python but not crazy much.
+Unity was my main game engine but I decided to switch to Godot so thats what I use now.
+I also worked with the Monogame framework, Unreal Engine, HTML, Javascript and Python.
 
 "If you wish to make an apple pie from scratch, you must first invent the universe."
 
