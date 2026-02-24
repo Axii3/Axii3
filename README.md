@@ -8,7 +8,7 @@ I also published some projects on my itch.io page:
 https://axii3.itch.io/
 
 Unity was my main game engine but I decided to switch to Godot so thats what I use now.
-I also worked with the Monogame framework, Unreal Engine, HTML, Javascript and Python.
+I also worked with the Monogame framework, Unreal Engine, Javascript and Python.
 
 For 3D models I use blender
 
