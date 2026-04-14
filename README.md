@@ -11,7 +11,7 @@ Godot is my main game engine but i also worked with the Monogame framework, Unre
 
 For 3D models I use blender
 
-For texturing, icons and design I use Affinity
+For texturing, icons and design I use Affinity photo 2
 
 
 
